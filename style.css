@@ -1,6 +1,12 @@
 body {
   font-size:1.1em
 }
-a:hover {
-  color:red;
+button {
+  font-family:arial;
+}
+button.white {
+  background-color:white;
+}
+#button1 {
+  border-radius: 15px;
 }

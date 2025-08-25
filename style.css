@@ -3,9 +3,10 @@ body {
 }
 button {
   font-family:arial;
+  padding:5px 10px;
 }
 .button {
-  padding:5px 10px;
+  background-color:steelblue;
 }
 #button1 {
   border-radius: 15px;

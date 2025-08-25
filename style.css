@@ -4,8 +4,8 @@ body {
 button {
   font-family:arial;
 }
-button.white {
-  background-color:white;
+.button {
+  background-color:steelblue;
 }
 #button1 {
   border-radius: 15px;
